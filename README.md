@@ -13,8 +13,10 @@ Pobrane pliki oglądam na VLC (klasyk) który można pobrać tu: [link](http://w
 
 I teraz jak pobierać:
 1. idziesz na którąś ze stron najlepiej mieć adblock to wyskakuje mniej
-2. szukasz, powinno być jak nie ma to nic nie poradzę <img src="https://github.com/nizwant/filmy_itp/blob/86e47480b1a1b6d6dceac56f791f2092d1412d27/images/att.WPNJLD80p3b1dm16UTVUiayZrkwH2x4Yfhh6skLbsXk.png" alt="Img not found" width="300">
-4. wybierasz jakość dla mnie 1080p jest wystarczająca ale jak się jest wybrednym to można lepiej ![[att.vqttArQSg-yQPtljhhuu-o0wIWeYsWCMTeNwInV5sDQ.png]]
+2. szukasz, powinno być jak nie ma to nic nie poradzę  
+<img src="https://github.com/nizwant/filmy_itp/blob/86e47480b1a1b6d6dceac56f791f2092d1412d27/images/att.WPNJLD80p3b1dm16UTVUiayZrkwH2x4Yfhh6skLbsXk.png" alt="Img not found" width="300">
+4. wybierasz jakość dla mnie 1080p jest wystarczająca ale jak się jest wybrednym to można lepiej 
+<img src="https://github.com/nizwant/filmy_itp/blob/main/images/att.vqttArQSg-yQPtljhhuu-o0wIWeYsWCMTeNwInV5sDQ.png" alt="Img not found" width="300">
 5.  najpierw ci się otworzy reklama, ale musisz naciskać tak długo aż ci się pokaże taka strona![[att.pvpZ-3UzHhiZcyeZdTXLSGIPB5uEy-FmQz0Ri0rXq2o.png]]
 6. czkasz 10 sekund i ci się taki niebieski guzik pokazuje, naciskasz go i drugi guzik niebieski się pokazuje z napisem `verify to continue` i go tez naciskasz
 7. robi się odliczanie i zamienia się po 10 sekundach w `click here to continue` i wtedy pokaże się kolejny guzik z napisem `go to download` (dużo guzików wiem)
