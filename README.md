@@ -21,8 +21,10 @@ I teraz jak pobierać:
 <img src="https://github.com/nizwant/filmy_itp/blob/main/images/att.pvpZ-3UzHhiZcyeZdTXLSGIPB5uEy-FmQz0Ri0rXq2o.png" alt="Img not found" width="300">
 5. czkasz 10 sekund i ci się taki niebieski guzik pokazuje, naciskasz go i drugi guzik niebieski się pokazuje z napisem `verify to continue` i go tez naciskasz
 6. robi się odliczanie i zamienia się po 10 sekundach w `click here to continue` i wtedy pokaże się kolejny guzik z napisem `go to download` (dużo guzików wiem)
-7. Przenosisz się do takiej strony i klikasz `instant download` ![[att.RPJ5uBiW8r3ritvbH5iLCxwBoS7lcxxsqT1c2MCXRbQ.png]]
-8. teraz jesteś na takiej stronie tu klikasz `instant download` i wtedy zaczynia ci się pobierać powodzenia życzę i miłego oglądania ![[att.sZ8ccNS7wjKYAI21iflBr7iOKGzyZj5id1dVkyO9aes.png]]
+7. Przenosisz się do takiej strony i klikasz `instant download`
+<img src="https://github.com/nizwant/filmy_itp/blob/main/images/att.RPJ5uBiW8r3ritvbH5iLCxwBoS7lcxxsqT1c2MCXRbQ.png" alt="Img not found" width="300">
+8. teraz jesteś na takiej stronie tu klikasz `instant download` i wtedy zaczynia ci się pobierać powodzenia życzę i miłego oglądania
+<img src="https://github.com/nizwant/filmy_itp/blob/main/images/att.sZ8ccNS7wjKYAI21iflBr7iOKGzyZj5id1dVkyO9aes.png" alt="Img not found" width="300">
 9. Porady na koniec:
 - na innych stronach guziki mogą wyglądać inaczej ale klikasz na te które mają taki sam styl 
 - jeżeli coś wychodzi danego dnia to trzeba poczekać 2-3 dni 
