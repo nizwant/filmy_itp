@@ -13,7 +13,7 @@ Pobrane pliki oglądam na VLC (klasyk) który można pobrać tu: [link](http://w
 
 I teraz jak pobierać:
 1. idziesz na którąś ze stron najlepiej mieć adblock to wyskakuje mniej
-2. szukasz, powinno być jak nie ma to nic nie poradzę ![[att.WPNJLD80p3b1dm16UTVUiayZrkwH2x4Yfhh6skLbsXk.png]] 
+2. szukasz, powinno być jak nie ma to nic nie poradzę ![[https://github.com/nizwant/filmy_itp/blob/main/images/att.WPNJLD80p3b1dm16UTVUiayZrkwH2x4Yfhh6skLbsXk.png]]
 3. wybierasz jakość dla mnie 1080p jest wystarczająca ale jak się jest wybrednym to można lepiej ![[att.vqttArQSg-yQPtljhhuu-o0wIWeYsWCMTeNwInV5sDQ.png]]
 4.  najpierw ci się otworzy reklama, ale musisz naciskać tak długo aż ci się pokaże taka strona![[att.pvpZ-3UzHhiZcyeZdTXLSGIPB5uEy-FmQz0Ri0rXq2o.png]]
 5. czkasz 10 sekund i ci się taki niebieski guzik pokazuje, naciskasz go i drugi guzik niebieski się pokazuje z napisem `verify to continue` i go tez naciskasz
